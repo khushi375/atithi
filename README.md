@@ -366,6 +366,6 @@ It motivates and supports future development.
 
 ### Building Premium Digital Travel Experiences
 
-Made with ❤️ by **Khushi Jain**
+Made  by **Khushi Jain**
 
 </div>
