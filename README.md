@@ -26,7 +26,7 @@
 ---
 
 ### 🌐 Live Demo
-**Coming Soon**
+**```https://atithi-tours.netlify.app```**
 
 ### 📄 Documentation
 Installation • Deployment • API Documentation
